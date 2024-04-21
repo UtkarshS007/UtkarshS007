@@ -5,6 +5,9 @@
 I am a Recent Graduate in Master of Science in Data Analytics Engineering from Northeastern University, Boston.
 
 🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://linkedin.com/in](http://www.linkedin.com/in/utkarsh-singh-a74a31142" target="blank"><img align="center" src="https://raw.githubusercontent.com/UtkarshS007/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 
 <!--
 **UtkarshS007/UtkarshS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
