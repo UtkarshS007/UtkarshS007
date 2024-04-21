@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
-  <p align="left"> 
+  <p align="left"><a href="https://www.tableau.com/" target="_blank" title="Angular"><img src="images/tableau.png" alt="angular" width="40" height="40"/></a>
