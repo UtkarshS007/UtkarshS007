@@ -6,7 +6,7 @@ I am a Recent Graduate in Master of Science in Data Analytics Engineering from N
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in](http://www.linkedin.com/in/utkarsh-singh-a74a31142" target="blank"><img align="center" src="images/Logo_of_Twitter.svg.png" alt="UtkarshSingh007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-singh-a74a31142" target="blank"><img align="center" src="images/Logo_of_Twitter.svg.png" alt="UtkarshSingh007" height="30" width="40" /></a>
 
 
 <!--
