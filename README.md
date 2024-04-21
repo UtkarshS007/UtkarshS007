@@ -1,6 +1,10 @@
 ### Hi there 👋. Welcome to my Github Portfolio
 
+### ✨&nbsp; About Me
 
+I am a Recent Graduate in Master of Science in Data Analytics Engineering from Northeastern University, Boston.
+
+🔗 &nbsp;**Connect with me**
 
 <!--
 **UtkarshS007/UtkarshS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
