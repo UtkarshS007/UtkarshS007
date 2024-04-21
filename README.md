@@ -26,4 +26,22 @@ Here are some ideas to get you started:
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
-  <p align="left"><a href="https://www.tableau.com/" target="_blank" title="Angular"><img src="images/tableau.png" alt="angular" width="40" height="40"/></a>
+  <p align="left"><a href="https://www.python.org/" target="_blank" title="Python"><img src="images/Python.svg.png" alt="Python" width="40" height="40"/></a>
+    <a href="https://cloud.google.com/" target="_blank" title="Google Cloud"><img src="images/gcp.png" alt="GCP" width="40" height="40"/></a>
+    <a href="https://www.r-project.org/" target="_blank" title="R"><img src="images/R_logo.svg.png" alt="R" width="40" height="40"/></a>
+    <a href="https://airflow.apache.org/" target="_blank" title="Airflow"><img src="images/airflow.png" alt="Airflow" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank" title="Tensorflow"><img src="images/TF.png" alt="Tensorflow" width="40" height="40"/></a>
+    <a href="https://mlflow.org/" target="_blank" title="MLFlow"><img src="images/mlflow.png" alt="MLFlow" width="40" height="40"/></a>
+    <a href="https://www.dask.org/" target="_blank" title="Dask"><img src="images/dask.png" alt="Dask" width="40" height="40"/></a>
+    <a href="https://www.tableau.com/" target="_blank" title="Tableau"><img src="images/tableau.png" alt="Tableau" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="images/docker.png" alt="Docker" width="40" height="40"/></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira"><img src="images/jira.png" alt="Jira" width="40" height="40"/></a>
+    <a href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img src="images/kubernetes.jpg" alt="Kubernetes" width="40" height="40"/></a>
+    <a href="https://www.snowflake.com/en/" target="_blank" title="SnowFlake"><img src="images/snowflake.png" alt="SnowFlake" width="40" height="40"/></a>
+  </p>
+</details>
+
+  
+    
+    
+    
