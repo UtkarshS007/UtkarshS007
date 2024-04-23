@@ -2,8 +2,8 @@
 
 ### ✨&nbsp; About Me
 
-I am a Recent Graduate in Master of Science in Data Analytics Engineering from Northeastern University, Boston.
-I have 3 years of work experience in the field of Data Analytics/Science. 
+- I am a Recent Graduate in Master of Science in Data Analytics Engineering from Northeastern University, Boston.
+- I have 3 years of work experience turning data into actionable insights. 
 
 
 🔗 &nbsp;**Connect with me**
